@@ -1,0 +1,41 @@
+# ---- Secrets & keys (never commit) ----
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.crt
+secrets/
+credentials*.json
+service-account*.json
+.streamlit/secrets.toml
+
+# ---- Python-generated files ----
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# ---- Virtual environments ----
+.venv
+venv/
+env/
+
+# ---- Local data (user documents + vector DB volume) ----
+uploads/
+qdrant_storage/
+
+# ---- OS / editor ----
+.DS_Store
+.idea/
+.vscode/
+*.swp
