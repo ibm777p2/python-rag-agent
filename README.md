@@ -164,3 +164,9 @@ This is the kind of work I'd scope next for a real customer deployment:
 I like taking AI systems from prototype to something customers rely on: working inside a customer's real data and constraints, picking the trade-offs that match their workflow, and shipping end to end, from ingestion to UI. I'm looking for **Forward Deployed Engineer** and **Founding Engineer** roles at early-stage startups.
 
 **Vincent** · GitHub [@ibm777p2](https://github.com/ibm777p2)
+
+---
+
+## License
+
+MIT. See [LICENSE](LICENSE).
